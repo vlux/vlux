@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+### Xuanwu Yue is currently a Senior Data Analytics at [Nanjing AI Institute of Sinovation Ventures](https://chuangxin.com/). His primary resesarch lies in visual analytics of financial data with particular focuses on quantitative traiding, market analysis and high frequency trading. Prior to joining Sinavation Ventures, Xuanwu completed his Ph.D. in the Department of Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST) under the supervision of [Prof. Huamin Qu](http://www.huamin.org/) in [HKUST VisLab](http://vis.cse.ust.hk/)(2016.09 - 2020.06). He obtained his B.Eng. degree from Software School, Shandong University in June 2016. During his undergraduate studies, he was also a research assistant at [The Interdisciplinary Research Center (IRC)](http://irc.cs.sdu.edu.cn/) supervised by [Prof. Baoquan Chen](https://cfcs.pku.edu.cn/baoquan/) and [Prof. Yunhai Wang](http://www.yunhaiwang.net/).
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vlux/vlux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
